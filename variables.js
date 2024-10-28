@@ -12,4 +12,4 @@ accountPassword = "4644366"
 accountCity = "Chitrakoot"
 
 
-console.table([accountId , accountEmail, accountPassword, accountCity, accountState])
+console.table([accountId , accountEmail, accountPassword, accountCity, accountStat]}

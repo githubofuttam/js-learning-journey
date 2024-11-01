@@ -16,3 +16,6 @@
 let someNUmber = 33;
 let stringNumber = String(someNUmber)
 console.log(typeof(stringNumber))
+
+console.log(+true)
+console.log(+"")
